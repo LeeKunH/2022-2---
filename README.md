@@ -2,16 +2,13 @@
 ## 이수년도/학기 : 2022-2학기 
 ## 학점/등급 : 3학점/B+
 
-### 학습목표 : 
-ㅡ 3D CAD를 활용한 다양한 형상 디자인 능력을 함양한다.
+-------
 
-ㅡ 다양한 기계부품의 정적설계의 기초 개념을 함양한다.
+# 프로젝트 최종 구현 이미지 =>
 
-ㅡ 구동기구 설계 및 모션 애니메이션 능력을 함양한다.
-
---------------
-# 1차 아이디어 기록 =>
-[2022-2-기구설계기초-1차아이디어.pdf](https://github.com/LeeKunH/2022-2-Mechanism-design-basics/files/13582621/2022-2-.-1.pdf)
+<p align="center">
+<img src="https://github.com/LeeKunH/2022-2-Mechanism-design-basics/assets/139840981/7dedef4a-bf27-4010-981b-a191c900ea0e">
+</p>
 
 -------
 # 프로젝트 시연영상 =>
